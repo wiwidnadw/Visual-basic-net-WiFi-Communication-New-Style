@@ -1,3 +1,12 @@
+// create by Nur Ahmad
+//github.com/wiwidnadw
+//Youtube channel : Digitalneering
+//video tutorial for this project : https://youtu.be/jn_oRLLJz64
+
+//Support my platform on github and Youtube by Like, share and subs ! Enjoy
+
+
+
 #include <WiFi.h>
 
 //IPAddress ip(192, 168, 43, 150);
