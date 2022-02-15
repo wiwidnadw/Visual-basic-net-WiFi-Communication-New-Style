@@ -1,4 +1,11 @@
-﻿Imports System.IO
+'// create by Nur Ahmad'
+'//github.com/wiwidnadw
+'//Youtube channel : Digitalneering
+'//video tutorial for this project : https://youtu.be/jn_oRLLJz64
+
+'//Support my platform on github and Youtube by Like, share and subs ! Enjoy
+
+Imports System.IO
 Imports System.Net.Sockets
 
 Public Class Form1
